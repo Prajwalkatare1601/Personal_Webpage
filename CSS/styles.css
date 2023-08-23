@@ -1,0 +1,76 @@
+.top-container{
+  background-color: #EAF6F6;
+  position: relative;
+}
+
+body{
+  border-width: 50px;
+  margin: 0;
+  text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.5em;
+}
+
+h1{
+  padding-top: 100px;
+  margin-block-end:2px;
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+  font-size: 7rem;
+  margin-top: 0;
+  font-style: italic;
+}
+
+h2{
+  color:#66BFBF;
+}
+
+h3{
+  color:#11999E;
+}
+p{
+  margin-block-start: 2px;
+}
+
+.top{
+  background-color: #EAF6F6;
+}
+
+.top-cloud{
+  margin-top: 2%;
+  position: absolute;
+  right: 30%;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left :30%;
+}
+
+.first-text
+{
+  font-size: 30px;
+  color:#66BFBF;
+
+}
+
+.skill-row{
+  position: relative;
+  margin: auto;
+  width: 70%;
+}
+
+.contact{
+  margin-bottom: 0;
+}
+.contact-me{
+  background-color: #EAF6F6;
+}
+.bottom-container{
+
+  background-color: #EAF6F6;
+}
+
+.get-in-touch {
+  margin-top: 0px;
+}
